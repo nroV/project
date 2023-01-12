@@ -1,0 +1,25 @@
+{
+    "data": [
+    {
+      "id": 334,
+      "attributes": {
+        "title": "",
+        "createdAt": "2022-12-29T12:24:52.777Z",
+        "updatedAt": "2023-01-03T08:13:06.684Z",
+        "publishedAt": "2022-12-29T12:24:52.774Z",
+        "price": "",
+        "rating": "4",
+        "description": "",
+        "quantity": "23",
+        "thumbnail": {
+          "data": {
+            "id": 1518,
+            "attributes": {
+                "url": "/uploads/thumbnail_FB_IMG_1670561661668_479e451187.jpg"
+            }
+          }
+        }
+      }
+    }
+  ]
+}
